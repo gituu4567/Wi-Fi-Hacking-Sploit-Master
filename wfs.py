@@ -1,3 +1,6 @@
+# coded by : DareDevilKinng
+# Please don't change the description of code changing it won't make you a coder. Thank you.
+
 import requests
 import sys
 
